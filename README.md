@@ -1,7 +1,8 @@
 
 ![Banner](/assets/Banner.gif)
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Builder;Open+Source+Contibutor)
 
 I’m a full-stack developer focused on building scalable and user-centric digital products.  
 I enjoy turning complex ideas into clean, functional systems — from intuitive frontends to efficient backend architectures.
@@ -16,3 +17,5 @@ I believe in building with purpose — not just writing code, but creating impac
 ## 🚀 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongodb,python,java,tailwind,figma)
+
+
